@@ -1,4 +1,4 @@
-Go SDK  
+Go SDK
    
 The following services' SDK are included.  
 \- IAM  
